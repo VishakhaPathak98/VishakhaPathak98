@@ -1,4 +1,4 @@
-## Hi there, I'm Vishakha Pathak ![Uploading animation.gif…]()
+## Hi there, I'm Vishakha Pathak ![animation](https://github.com/user-attachments/assets/c651445c-ad99-4b45-b423-f848df248de6)
 
 
 **VishakhaPathak98/VishakhaPathak98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
