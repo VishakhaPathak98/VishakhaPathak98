@@ -32,7 +32,8 @@ Here are some of the projects I've worked on:
   - Pandas: <img src="https://www.svgrepo.com/show/473742/pandas.svg" width="30" />
 
   - NumPy: <img src="https://www.svgrepo.com/show/373938/numpy.svg" width="30" />
-  - NumPy: <img src="https://www.svgrepo.com/show/373938/numpy.svg" width="30" />  
+  
+  - Streamlit: <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fstreamlit-logo%2F249495&psig=AOvVaw06yCu4ne-JpuDqW2rySUKy&ust=1735499380349000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMD98KaVy4oDFQAAAAAdAAAAABAE" width="30" />  
 - **Database**:
   - PostgreSQL: <img src="https://www.svgrepo.com/show/439268/postgresql.svg" width="30" />
   
