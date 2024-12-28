@@ -16,10 +16,32 @@ Here are some of the projects I've worked on:
 - **[Project 3](VishakhaPathak98/Bank-Loan-Prediction)**: The problem is to develop a predictive model that can assess whether a customer is eligible for a loan based on their financial and personal information. This helps lenders automate and streamline the loan approval process, improve decision-making accuracy, and reduce manual efforts.
 
 ## 🛠️ Skills
-- **Programming Languages**: Python, C++
-- **Libraries and Frameworks**: Pandas, NumPy, Scikit-learn, Keras, Matplotlib, Seaborn
-- **Tools**: Google Collab,Power BI, Excel
--**Database**:SQL,PostgreSQL
+
+- **Programming Languages**:
+  - Python <img src="https://media.giphy.com/media/26xBzNK7NNisXKs1q/giphy.gif" width="30" />
+  
+- **Machine Learning**:
+  - ML <img src="https://media.giphy.com/media/26xBzNK7NNisXKs1q/giphy.gif" width="30" />
+  
+- **Natural Language Processing**:
+  - NLP <img src="https://media.giphy.com/media/xUPGGzHj5n6MuR2o0g/giphy.gif" width="30" />
+  
+- **Prompt Engineering**:
+  - Prompt Engineering <img src="https://media.giphy.com/media/3ohhwnXzjxvpdbl97y/giphy.gif" width="30" />
+  
+- **Web Framework**:
+  - Streamlit <img src="https://media.giphy.com/media/11s2d7hDptP17y/giphy.gif" width="30" />
+  
+- **Libraries and Frameworks**:
+  - Pandas <img src="https://media.giphy.com/media/JMvG7M0X9tvNe/giphy.gif" width="30" />
+  - NumPy <img src="https://media.giphy.com/media/26FfZjmVXtdz7sM1q/giphy.gif" width="30" />
+  
+- **Database**:
+  - PostgreSQL <img src="https://media.giphy.com/media/xUPGGzHj5n6MuR2o0g/giphy.gif" width="30" />
+  
+- **Tools**:
+  - Power BI <img src="https://media.giphy.com/media/4a24Tt6r5sRbm/giphy.gif" width="30" />
+
 
 ## 📫 How to reach me
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vishakha-pathak)
