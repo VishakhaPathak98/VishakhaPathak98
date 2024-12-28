@@ -24,21 +24,22 @@ Here are some of the projects I've worked on:
   - Python <img src="https://media.tenor.com/_E-NCczd1nYAAAAi/python.gif" width="30" />
   
   **Data Science**:
-- Machine Learning: <img src="https://www.svgrepo.com/show/339333/machine-learning-06.svg" width="30" />
-- Natural Language Processing:<img src="https://www.svgrepo.com/show/416376/artificial-bot-intelligence.svg" width="30" />
-- Prompt Engineering:<img src="https://media.giphy.com/media/3ohhwnXzjxvpdbl97y/giphy.gif" width="30" />
+  - Machine Learning: <img src="https://www.svgrepo.com/show/339333/machine-learning-06.svg" width="30" />
+  - Natural Language Processing: <img src="https://www.svgrepo.com/show/416376/artificial-bot-intelligence.svg" width="30" />
+  - Prompt Engineering: <img src="https://www.svgrepo.com/show/311887/chats.svg" width="30" />
 
 - **Libraries and Frameworks**:
-  - Pandas <img src="" width="30" />
+  - Pandas <img src="https://www.svgrepo.com/svg/473742/pandas" width="30" />
 
-  - NumPy <img src="[https://media.giphy.com/media/26FfZjmVXtdz7sM1q/giphy.gif](https://www.google.com/imgres?q=numpy%20library%20icon&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F31%2FNumPy_logo_2020.svg%2F1200px-NumPy_logo_2020.svg.png&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ANumPy_logo_2020.svg&docid=2szkTYJOYt7fEM&tbnid=ZT36fhhFxV1DWM&vet=12ahUKEwis6ajvh8uKAxXvU2wGHYNNIKwQM3oECBYQAA..i&w=1200&h=540&hcb=2&ved=2ahUKEwis6ajvh8uKAxXvU2wGHYNNIKwQM3oECBYQAA)" width="30" />
-  - Streamlit <img src="https://www.google.com/imgres?q=logo%20transparent%20png%20streamlit%20icon&imgurl=https%3A%2F%2Fstreamlit.io%2Fimages%2Fbrand%2Fstreamlit-logo-secondary-colormark-darktext.png&imgrefurl=https%3A%2F%2Fstreamlit.io%2Fbrand&docid=vnWK2tMrGVX_0M&tbnid=NNETaG3I0V6aLM&vet=12ahUKEwjQuZfVicuKAxXRh1YBHcO4GYEQM3oECBoQAA..i&w=2181&h=1276&hcb=2&ved=2ahUKEwjQuZfVicuKAxXRh1YBHcO4GYEQM3oECBoQAA" width="30" />
+  - NumPy <img src="https://www.svgrepo.com/svg/373938/numpy" width="30" />
+  
+  - Streamlit <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F8993096&psig=AOvVaw2cxkgxN3qwgcE8InPeDnqp&ust=1735498847947000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj0waeTy4oDFQAAAAAdAAAAABAE" width="30" />
   
 - **Database**:
-  - PostgreSQL <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nlelb&psig=AOvVaw3BAeNUPeRMdivTMg3AV8s9&ust=1735495969099000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIi078KJy4oDFQAAAAAdAAAAABAK" width="30" />
+  - PostgreSQL <img src="https://www.svgrepo.com/show/439268/postgresql.svg" width="30" />
   
 - **Tools**:
-  - Power BI <img src="https://media.giphy.com/media/4a24Tt6r5sRbm/giphy.gif" width="30" />
+  - Power BI <img src="https://www.svgrepo.com/show/473761/powerbi.svg" width="30" />
 
 
 ## 📫 How to reach me
