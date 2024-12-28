@@ -1,4 +1,4 @@
-## Hi there, I'm Vishakha Pathak <img src="https://media.tenor.com/kQcGDGtb79QAAAAi/alice-animated-alice-stickers.gif" width="300" />
+## Hi there, I'm Vishakha Pathak <img src="https://media.tenor.com/kQcGDGtb79QAAAAi/alice-animated-alice-stickers.gif" width="100" />
 
 
 **VishakhaPathak98/VishakhaPathak98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
