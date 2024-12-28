@@ -29,7 +29,8 @@ Here are some of the projects I've worked on:
 - Prompt Engineering:<img src="https://media.giphy.com/media/3ohhwnXzjxvpdbl97y/giphy.gif" width="30" />
 
 - **Libraries and Frameworks**:
-  - Pandas <img src="#150458" width="30" />
+  - Pandas <img src="<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>pandas</title><path d="M16.922 0h2.623v18.104h-2.623zm-4.126 12.94h2.623v2.57h-2.623zm0-7.037h2.623v5.446h-2.623zm0 11.197h2.623v5.446h-2.623zM4.456 5.896h2.622V24H4.455zm4.213 2.559h2.623v2.57H8.67zm0 4.151h2.623v5.447H8.67zm0-11.187h2.623v5.446H8.67Z"/></svg>![pandas](https://github.com/user-attachments/assets/7a3f6255-59ee-49c1-8c7d-74a32437c5d6)
+458" width="30" />
   - NumPy <img src="[https://media.giphy.com/media/26FfZjmVXtdz7sM1q/giphy.gif](https://www.google.com/imgres?q=numpy%20library%20icon&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F31%2FNumPy_logo_2020.svg%2F1200px-NumPy_logo_2020.svg.png&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ANumPy_logo_2020.svg&docid=2szkTYJOYt7fEM&tbnid=ZT36fhhFxV1DWM&vet=12ahUKEwis6ajvh8uKAxXvU2wGHYNNIKwQM3oECBYQAA..i&w=1200&h=540&hcb=2&ved=2ahUKEwis6ajvh8uKAxXvU2wGHYNNIKwQM3oECBYQAA)" width="30" />
   - Streamlit <img src="https://www.google.com/imgres?q=logo%20transparent%20png%20streamlit%20icon&imgurl=https%3A%2F%2Fstreamlit.io%2Fimages%2Fbrand%2Fstreamlit-logo-secondary-colormark-darktext.png&imgrefurl=https%3A%2F%2Fstreamlit.io%2Fbrand&docid=vnWK2tMrGVX_0M&tbnid=NNETaG3I0V6aLM&vet=12ahUKEwjQuZfVicuKAxXRh1YBHcO4GYEQM3oECBoQAA..i&w=2181&h=1276&hcb=2&ved=2ahUKEwjQuZfVicuKAxXRh1YBHcO4GYEQM3oECBoQAA" width="30" />
   
