@@ -1,4 +1,4 @@
-## Hi there I'm Vishakha Pathak 👋
+## Hi there, I'm Vishakha Pathak ![Animated Emoji](https://media.tenor.com/images/daed7f3d17ac7c2632a3a9e18c4744fd/tenor.gif)
 
 
 **VishakhaPathak98/VishakhaPathak98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
