@@ -4,7 +4,7 @@
 ## Hi there, I'm Vishakha Pathak <img src="https://media.tenor.com/kQcGDGtb79QAAAAi/alice-animated-alice-stickers.gif" width="70" />
 
 ## 🚀 About Me
-I am a aspiring data analyst with a passion for extracting insights from data and using machine learning to solve complex problems. With a strong background in  Statistics, Computer Science,Python . I love to explore data and turn it into actionable insights.
+I am a passionate Data Scientist with a deep interest in using data to solve complex problems and make informed decisions. With a background in Computer Science and Data Science, I specialize in leveraging machine learning, data analysis, and data visualization to derive actionable insights and help businesses drive growth.
 
 ## 🔭 Projects
 Here are some of the projects I've worked on:
@@ -21,23 +21,17 @@ Here are some of the projects I've worked on:
 ## 🛠️ Skills
 
 - **Programming Languages**:
-  - Python <img src="https://media.giphy.com/media/26xBzNK7NNisXKs1q/giphy.gif" width="30" />
+  - Python <img src="https://media.tenor.com/_E-NCczd1nYAAAAi/python.gif" width="30" />
   
-- **Machine Learning**:
-  - ML <img src="https://media.giphy.com/media/26xBzNK7NNisXKs1q/giphy.gif" width="30" />
-  
-- **Natural Language Processing**:
-  - NLP <img src="https://media.giphy.com/media/xUPGGzHj5n6MuR2o0g/giphy.gif" width="30" />
-  
-- **Prompt Engineering**:
-  - Prompt Engineering <img src="https://media.giphy.com/media/3ohhwnXzjxvpdbl97y/giphy.gif" width="30" />
-  
-- **Web Framework**:
-  - Streamlit <img src="https://media.giphy.com/media/11s2d7hDptP17y/giphy.gif" width="30" />
-  
+  **Data Science**:
+- Machine Learning: <img src="https://media.giphy.com/media/26xBzNK7NNisXKs1q/giphy.gif" width="30" />
+- Natural Language Processing:<img src="https://media.giphy.com/media/xUPGGzHj5n6MuR2o0g/giphy.gif" width="30" />
+- Prompt Engineering:<img src="https://media.giphy.com/media/3ohhwnXzjxvpdbl97y/giphy.gif" width="30" />
+
 - **Libraries and Frameworks**:
   - Pandas <img src="https://media.giphy.com/media/JMvG7M0X9tvNe/giphy.gif" width="30" />
   - NumPy <img src="https://media.giphy.com/media/26FfZjmVXtdz7sM1q/giphy.gif" width="30" />
+  - Streamlit <img src="https://media.giphy.com/media/11s2d7hDptP17y/giphy.gif" width="30" />
   
 - **Database**:
   - PostgreSQL <img src="https://media.giphy.com/media/xUPGGzHj5n6MuR2o0g/giphy.gif" width="30" />
