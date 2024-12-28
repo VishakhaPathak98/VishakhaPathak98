@@ -33,7 +33,7 @@ Here are some of the projects I've worked on:
 
   - NumPy <img src="https://www.svgrepo.com/svg/373938/numpy" width="30" />
   
-  - Streamlit <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F8993096&psig=AOvVaw2cxkgxN3qwgcE8InPeDnqp&ust=1735498847947000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj0waeTy4oDFQAAAAAdAAAAABAE" width="30" />
+  
   
 - **Database**:
   - PostgreSQL <img src="https://www.svgrepo.com/show/439268/postgresql.svg" width="30" />
