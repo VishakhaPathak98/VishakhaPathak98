@@ -25,7 +25,7 @@ Here are some of the projects I've worked on:
   
   **Data Science**:
 - Machine Learning: <img src="https://www.svgrepo.com/show/339333/machine-learning-06.svg" width="30" />
-- Natural Language Processing:<img src="https://media.giphy.com/media/xUPGGzHj5n6MuR2o0g/giphy.gif" width="30" />
+- Natural Language Processing:<img src="https://www.svgrepo.com/show/416376/artificial-bot-intelligence.svg" width="30" />
 - Prompt Engineering:<img src="https://media.giphy.com/media/3ohhwnXzjxvpdbl97y/giphy.gif" width="30" />
 
 - **Libraries and Frameworks**:
