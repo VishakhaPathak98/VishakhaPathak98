@@ -21,7 +21,7 @@ Here are some of the projects I've worked on:
 ## 🛠️ Skills
 
 - **Programming Languages**:
-  - Python <img src="https://media.tenor.com/_E-NCczd1nYAAAAi/python.gif" width="30" />
+  - Python: <img src="https://media.tenor.com/_E-NCczd1nYAAAAi/python.gif" width="30" />
   
   **Data Science**:
   - Machine Learning: <img src="https://www.svgrepo.com/show/339333/machine-learning-06.svg" width="30" />
@@ -29,17 +29,17 @@ Here are some of the projects I've worked on:
   - Prompt Engineering: <img src="https://www.svgrepo.com/show/311887/chats.svg" width="30" />
 
 - **Libraries and Frameworks**:
-  - Pandas <img src="https://www.svgrepo.com/svg/473742/pandas" width="30" />
+  - Pandas: <img src="https://www.svgrepo.com/svg/473742/pandas.svg" width="30" />
 
-  - NumPy <img src="https://www.svgrepo.com/svg/373938/numpy" width="30" />
-  
-  
+  - NumPy: <img src="https://www.svgrepo.com/svg/373938/numpy.svg" width="30" />
+
+  -Streamlit:  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F5084798&psig=AOvVaw1R2VufpF0J8TWQNWVpyRMU&ust=1735499040228000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCo3YOUy4oDFQAAAAAdAAAAABAE" width="30" />
   
 - **Database**:
-  - PostgreSQL <img src="https://www.svgrepo.com/show/439268/postgresql.svg" width="30" />
+  - PostgreSQL: <img src="https://www.svgrepo.com/show/439268/postgresql.svg" width="30" />
   
 - **Tools**:
-  - Power BI <img src="https://www.svgrepo.com/show/473761/powerbi.svg" width="30" />
+  - Power BI: <img src="https://www.svgrepo.com/show/473761/powerbi.svg" width="30" />
 
 
 ## 📫 How to reach me
