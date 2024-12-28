@@ -1,8 +1,5 @@
 ## Hi there, I'm Vishakha Pathak <img src="https://media.tenor.com/kQcGDGtb79QAAAAi/alice-animated-alice-stickers.gif" width="70" />
 
-
-**VishakhaPathak98/VishakhaPathak98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 🚀 About Me
 I am a aspiring data analyst with a passion for extracting insights from data and using machine learning to solve complex problems. With a strong background in  Statistics, Computer Science,Python . I love to explore data and turn it into actionable insights.
 
