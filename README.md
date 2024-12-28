@@ -1,4 +1,4 @@
-## Hi there, I'm Vishakha Pathak ![Animated Emoji](https://tenor.com/view/chubby-cute-cat-hello-hi-gif-4587233001840873803)
+## Hi there, I'm Vishakha Pathak [Animated Emoji](https://tenor.com/view/chubby-cute-cat-hello-hi-gif-4587233001840873803)
 
 
 **VishakhaPathak98/VishakhaPathak98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
