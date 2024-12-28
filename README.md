@@ -24,7 +24,7 @@ Here are some of the projects I've worked on:
   - Python <img src="https://media.tenor.com/_E-NCczd1nYAAAAi/python.gif" width="30" />
   
   **Data Science**:
-- Machine Learning: <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Scikit_learn_logo_small.svg" width="30" />
+- Machine Learning: <img src="https://www.svgrepo.com/show/339333/machine-learning-06.svg" width="30" />
 - Natural Language Processing:<img src="https://media.giphy.com/media/xUPGGzHj5n6MuR2o0g/giphy.gif" width="30" />
 - Prompt Engineering:<img src="https://media.giphy.com/media/3ohhwnXzjxvpdbl97y/giphy.gif" width="30" />
 
