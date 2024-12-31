@@ -44,7 +44,7 @@ Here are some of the projects I've worked on:
 ## 📫 How to reach me
 - LinkedIn: (https://www.linkedin.com/in/vishakha-pathak)
 - Email: (mailto:vishakhapathak98@gmail.com)
--kaggle:(https://www.kaggle.com/vishakhapathak98)
+- kaggle:(https://www.kaggle.com/vishakhapathak98)
 
 ## 🎓 Education
 - **[B.TECH]**: [Oriental College Of Technology]
