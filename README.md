@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" width="900" />
+<img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" width="850" />
 
 ## Hi there, I'm Vishakha Pathak <img src="https://media.tenor.com/kQcGDGtb79QAAAAi/alice-animated-alice-stickers.gif" width="70" />
 
@@ -43,9 +43,9 @@ Here are some of the projects I've worked on:
   - Power BI: <img src="https://www.svgrepo.com/show/473761/powerbi.svg" width="30" />
 
 ## 📫 How to reach me
-- LinkedIn <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" width="20" /> : (https://www.linkedin.com/in/vishakha-pathak)
+- LinkedIn <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" width="18" /> : (https://www.linkedin.com/in/vishakha-pathak)
 - Email <img src="https://www.svgrepo.com/show/533226/mail-pencil.svg" width="20" /> : (mailto:vishakhapathak98@gmail.com)
-- kaggle <img src="https://www.svgrepo.com/show/349422/kaggle.svg" width="20" /> : (https://www.kaggle.com/vishakhapathak98)
+- kaggle <img src="https://www.svgrepo.com/show/349422/kaggle.svg" width="22" /> : (https://www.kaggle.com/vishakhapathak98)
 
 ## 🎓 Education
 - **[B.TECH]**: [Oriental College Of Technology]
@@ -54,3 +54,6 @@ Here are some of the projects I've worked on:
 
 ## 💻 Experience 
 - **[Sutra.ai]**: [Data scientist]
+ As a Data Scientist at Sutra.AI, I use data analysis and machine learning to help solve business problems and make smarter decisions. My work involves studying large sets 
+ of data, creating models to predict future trends, and automating tasks to save time and effort. I work with different teams to add AI features to products, create easy-to- 
+ understand data visuals, and share helpful insights with the team. My goal is to develop solutions that improve business strategies and enhance customer experiences.
