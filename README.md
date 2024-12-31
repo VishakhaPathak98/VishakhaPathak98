@@ -1,5 +1,5 @@
 
-  <img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" width="600" />
+                      <img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" width="900" />
 
 ## Hi there, I'm Vishakha Pathak <img src="https://media.tenor.com/kQcGDGtb79QAAAAi/alice-animated-alice-stickers.gif" width="70" />
 
@@ -42,9 +42,9 @@ Here are some of the projects I've worked on:
   - Power BI: <img src="https://www.svgrepo.com/show/473761/powerbi.svg" width="30" />
 
 ## 📫 How to reach me
-- LinkedIn:<img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" width="20" /> (https://www.linkedin.com/in/vishakha-pathak)
-- Email:<img src="https://www.svgrepo.com/show/533226/mail-pencil.svg" width="20" /> (mailto:vishakhapathak98@gmail.com)
-- kaggle:<img src="https://www.svgrepo.com/show/349422/kaggle.svg" width="20" /> (https://www.kaggle.com/vishakhapathak98)
+- LinkedIn <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" width="20" /> : (https://www.linkedin.com/in/vishakha-pathak)
+- Email <img src="https://www.svgrepo.com/show/533226/mail-pencil.svg" width="20" /> : (mailto:vishakhapathak98@gmail.com)
+- kaggle <img src="https://www.svgrepo.com/show/349422/kaggle.svg" width="20" /> : (https://www.kaggle.com/vishakhapathak98)
 
 ## 🎓 Education
 - **[B.TECH]**: [Oriental College Of Technology]
