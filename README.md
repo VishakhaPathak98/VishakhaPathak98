@@ -1,5 +1,4 @@
-
-                      <img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" width="900" />
+<img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" width="900" />
 
 ## Hi there, I'm Vishakha Pathak <img src="https://media.tenor.com/kQcGDGtb79QAAAAi/alice-animated-alice-stickers.gif" width="70" />
 
