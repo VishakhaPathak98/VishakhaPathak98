@@ -33,7 +33,8 @@ Here are some of the projects I've worked on:
 
   - NumPy: <img src="https://www.svgrepo.com/show/373938/numpy.svg" width="30" />
   
-  - Streamlit: <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fstreamlit-logo%2F249495&psig=AOvVaw06yCu4ne-JpuDqW2rySUKy&ust=1735499380349000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMD98KaVy4oDFQAAAAAdAAAAABAE" width="30" />  
+  - Streamlit: <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="30" />
+  
 - **Database**:
   - PostgreSQL: <img src="https://www.svgrepo.com/show/439268/postgresql.svg" width="30" />
   
@@ -41,9 +42,12 @@ Here are some of the projects I've worked on:
   - Power BI: <img src="https://www.svgrepo.com/show/473761/powerbi.svg" width="30" />
 
 ## 📫 How to reach me
-- LinkedIn:<img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" width="30" /> (https://www.linkedin.com/in/vishakha-pathak)
-- Email: (mailto:vishakhapathak98@gmail.com)
-- kaggle:(https://www.kaggle.com/vishakhapathak98)
+- LinkedIn:<img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" width="20" /> (https://www.linkedin.com/in/vishakha-pathak)
+- Email:<img src="https://www.svgrepo.com/show/533226/mail-pencil.svg" width="20" /> (mailto:vishakhapathak98@gmail.com)
+- kaggle:<img src="https://www.svgrepo.com/show/349422/kaggle.svg" width="20" /> (https://www.kaggle.com/vishakhapathak98)
 
 ## 🎓 Education
 - **[B.TECH]**: [Oriental College Of Technology]
+- **[12th]**: [BHEL Vikram Higher Secondary School]
+- **[10th]**: [BHEL Vikram Higher Secondary School]
+
