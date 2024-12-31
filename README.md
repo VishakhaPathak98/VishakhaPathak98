@@ -50,3 +50,5 @@ Here are some of the projects I've worked on:
 - **[12th]**: [BHEL Vikram Higher Secondary School]
 - **[10th]**: [BHEL Vikram Higher Secondary School]
 
+## 💻 Experience 
+- **[Sutra.ai]**: [Data scientist]
