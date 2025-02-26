@@ -15,7 +15,7 @@ Here are some of the projects I've worked on:
 - **[Project 2](https://github.com/VishakhaPathak98/Road-Accident-Analysis)**: The objective of road accident analysis using Excel is to derive meaningful insights from collected data on road accidents. By employing various Excel features, the analysis aims to identify trends, patterns, and contributing factors to enhance road safety measures.
 
 ### Data Science
-- **[Project 3](VishakhaPathak98/Bank-Loan-Prediction)**: The problem is to develop a predictive model that can assess whether a customer is eligible for a loan based on their financial and personal information. This helps lenders automate and streamline the loan approval process, improve decision-making accuracy, and reduce manual efforts.
+- **[Project 3](https://github.com/VishakhaPathak98/Bank-Loan-Prediction)**: The problem is to develop a predictive model that can assess whether a customer is eligible for a loan based on their financial and personal information. This helps lenders automate and streamline the loan approval process, improve decision-making accuracy, and reduce manual efforts.
   
 - **[Project 4](https://github.com/VishakhaPathak98/Travel_Itinerary)**: A Travel Itinerary Chatbot is a virtual assistant designed to help users plan and organize their trips. It allows travelers to easily create personalized itineraries by suggesting destinations, activities, accommodations, and transportation based on user preferences. The chatbot can also provide real-time weather updates and answer travel-related queries, making trip planning more efficient and enjoyable.
   
