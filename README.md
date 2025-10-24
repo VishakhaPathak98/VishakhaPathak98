@@ -50,7 +50,7 @@ Here are some of the projects I've worked on:
   
 - **Tools**:
   - Power BI: <img src="https://www.svgrepo.com/show/473761/powerbi.svg" width="30" />
-  - Metabase: <img src="https://www.svgrepo.com/svg/354063/metabase" width="30" />
+  - Metabase: <img src="https://www.svgrepo.com/show/354063/metabase.svg" width="30" />
 
 ## 📫 How to reach me
 - LinkedIn <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" width="18" /> : (https://www.linkedin.com/in/vishakha-pathak)
