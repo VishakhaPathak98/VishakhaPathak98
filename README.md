@@ -18,6 +18,10 @@ Here are some of the projects I've worked on:
 - **[Project 3](https://github.com/VishakhaPathak98/Bank-Loan-Prediction)**: The problem is to develop a predictive model that can assess whether a customer is eligible for a loan based on their financial and personal information. This helps lenders automate and streamline the loan approval process, improve decision-making accuracy, and reduce manual efforts.
   
 - **[Project 4](https://github.com/VishakhaPathak98/Travel_Itinerary)**: A Travel Itinerary Chatbot is a virtual assistant designed to help users plan and organize their trips. It allows travelers to easily create personalized itineraries by suggesting destinations, activities, accommodations, and transportation based on user preferences. The chatbot can also provide real-time weather updates and answer travel-related queries, making trip planning more efficient and enjoyable.
+
+- **[Project 5](https://github.com/VishakhaPathak98/SQL_GPT)**: This project features a chatbot interface that connects directly to your database, allowing you to query and retrieve information through natural language conversations. Built using Vanna.ai, it simplifies data access for both technical and non-technical users.
+  
+- **[Project 6](https://github.com/VishakhaPathak98/Chat-with-Website)**: Built an AI-powered app that lets users input any website URL and chat with its content. Implemented web scraping and text extraction for dynamic data gathering. Used LangChain and OpenAI API to enable natural language Q&A, showcasing practical use of AI agents for information retrieval and business insights.
   
 ## 🛠️ Skills
 
@@ -35,12 +39,18 @@ Here are some of the projects I've worked on:
   - NumPy: <img src="https://www.svgrepo.com/show/373938/numpy.svg" width="30" />
   
   - Streamlit: <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="30" />
+
+  - Langgraph
+
+  - Langchain 
   
 - **Database**:
   - PostgreSQL: <img src="https://www.svgrepo.com/show/439268/postgresql.svg" width="30" />
+  - SQL: <img src="https://www.svgrepo.com/svg/331760/sql-database-generic" width="30" />
   
 - **Tools**:
   - Power BI: <img src="https://www.svgrepo.com/show/473761/powerbi.svg" width="30" />
+  - Metabase: <img src="https://www.svgrepo.com/svg/354063/metabase" width="30" />
 
 ## 📫 How to reach me
 - LinkedIn <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" width="18" /> : (https://www.linkedin.com/in/vishakha-pathak)
