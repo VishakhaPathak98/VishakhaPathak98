@@ -46,7 +46,7 @@ Here are some of the projects I've worked on:
   
 - **Database**:
   - PostgreSQL: <img src="https://www.svgrepo.com/show/439268/postgresql.svg" width="30" />
-  - SQL: <img src="https://www.svgrepo.com/svg/331760/sql-database-generic" width="30" />
+  - SQL: <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="30" />
   
 - **Tools**:
   - Power BI: <img src="https://www.svgrepo.com/show/473761/powerbi.svg" width="30" />
